@@ -1,4 +1,5 @@
 # Phantasm-Studios
+<img src="https://avatars.githubusercontent.com/u/74805003?s=200&v=4" align="right" />
 
 ## New Goal
 - To be built on open source three.js code-mirror nwjs javascript webGL cannon.js
